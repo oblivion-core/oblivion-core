@@ -17,7 +17,6 @@ Currently building my own operating system from scratch. Because why not.
 - 🤖 Built **Voca Demy** — an AI-powered Alexa skill for kids with LLM integration & Supabase backend
 - 🔐 Passionate about **cybersecurity**, low-level systems, and CTF challenges
 - 📚 Currently learning: Docker, FastAPI, x86 Assembly, and reading *Hacking: The Art of Exploitation*
-- ♟️ Chess player on Chess.com & Lichess when my brain needs a different kind of battle
 
 ---
 
