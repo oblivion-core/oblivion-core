@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>CS Graduate · OS Developer · Backend Engineer · Security Enthusiast</b><br/>
-  <sub>Bouira, Algeria · <a href="mailto:karimbouslah0372@gmail.com">karimbouslah0372@gmail.com</a></sub>
+  <sub>Bouira, Algeria · <a href="mailto:oblivioncore20@gmail.com">oblivioncore@gmail.com</a></sub>
 </p>
 
 ---
@@ -45,18 +45,9 @@ Tools          Git · GitHub · Android Studio · VS Code · Postman
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oblivion-core&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oblivion-core&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 ### 📫 Reach me
 
-- 📧 karimbouslah0372@gmail.com
+- 📧 oblivioncore20@gmail.com
 - 💻 [github.com/oblivion-core](https://github.com/oblivion-core)
 
 ---
