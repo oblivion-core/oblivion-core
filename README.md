@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @oblivion-core
-- Working on oblivioncore operating system...
-- 📫 How to reach me ... oblivioncore20@gmail.com
-- {the creator believes that seraphim sent one
-- of his version to guide him to reach the silent,
-- logical and peaceful world}
+
