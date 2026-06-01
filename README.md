@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>CS Graduate · OS Developer · Backend Engineer · Security Enthusiast</b><br/>
-  <sub>Bouira, Algeria · <a href="mailto:oblivioncore20@gmail.com">oblivioncore@gmail.com</a></sub>
+  <sub> Algeria · <a href="mailto:oblivioncore20@gmail.com">oblivioncore@gmail.com</a></sub>
 </p>
 
 ---
